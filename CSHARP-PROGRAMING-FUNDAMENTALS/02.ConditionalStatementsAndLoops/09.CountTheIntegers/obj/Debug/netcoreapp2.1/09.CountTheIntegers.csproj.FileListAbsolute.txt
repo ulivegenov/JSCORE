@@ -1,0 +1,10 @@
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\bin\Debug\netcoreapp2.1\09.CountTheIntegers.deps.json
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\bin\Debug\netcoreapp2.1\09.CountTheIntegers.runtimeconfig.json
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\bin\Debug\netcoreapp2.1\09.CountTheIntegers.runtimeconfig.dev.json
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\bin\Debug\netcoreapp2.1\09.CountTheIntegers.dll
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\bin\Debug\netcoreapp2.1\09.CountTheIntegers.pdb
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\obj\Debug\netcoreapp2.1\09.CountTheIntegers.csproj.CoreCompileInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\obj\Debug\netcoreapp2.1\09.CountTheIntegers.AssemblyInfoInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\obj\Debug\netcoreapp2.1\09.CountTheIntegers.AssemblyInfo.cs
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\obj\Debug\netcoreapp2.1\09.CountTheIntegers.dll
+F:\SoftUni\Visual Studio 2017\CSharp-Progr-Fundamentals\02.ConditionalStatementsAndLoops\09.CountTheIntegers\obj\Debug\netcoreapp2.1\09.CountTheIntegers.pdb
