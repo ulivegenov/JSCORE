@@ -25,7 +25,7 @@ function attachEvents() {
             const todayUrl = `https://judgetests.firebaseio.com/forecast/today/${code}.json`;
             const upcomingUrl = `https://judgetests.firebaseio.com/forecast/upcoming/${code}.json`;
 
-            function errorHandler(){
+            function errorHandler(respone){
                 if(code.length === 0){
                     throw new Error('Error');
                 }
