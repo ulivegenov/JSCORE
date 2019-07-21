@@ -20,6 +20,32 @@
         </thead>
         <tbody></tbody>
     </table>
+
+</br>
+
+    <form id = 'helpText'>
+        <h6>&lt&lt&ltCLICK ON STUDENT TO EDIT&gt&gt&gt</h6>
+    </form>
+    
+    <form>
+        <h3>REGISTRATION FORM</h3>
+        <label>ID</label>
+        <input type="number" min="1" id="id" placeholder="ID...">
+        <label>FIRST NAME</label>
+        <input type="title" id="firstName" placeholder="Fist Name...">
+        <label>LAST NAME</label>
+        <input type="title" id="lastName" placeholder="Last Name...">
+        <label>FACULTY NUMBER</label>
+        <input type="title" id="facultyNumber" placeholder="Faculty Number...">
+        <label>GRADE</label>
+        <input type="number" step="0.01" min="2" max="6" id="grade" placeholder="Grade...">
+        <button>Submit</button>
+        <div>
+            <button class="editBtn" style="display: none;">Done</button>
+            <button class="cancelBtn" style="display: none;">Cancel</button>
+            <button class="deleteBtn" style="display: none;">Delete</button>
+        </div>
+    </form>
     <script src="./app.js"></script>
 </body>
 
