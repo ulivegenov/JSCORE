@@ -3,14 +3,22 @@ const urls = {
     'update/delete' : 'https://baas.kinvey.com/appdata/kid_SyBswvefH/books/'
 }
 
+
+
 const elements = {
     btnLoadBooks : document.getElementById('loadBooks'),
     tBody : document.querySelector('body table tbody'),
     inputTitle : document.getElementById('title'),
     inputAuthor : document.getElementById('author'),
     inputIsbn : document.getElementById('isbn'),
-    btnSubmit : document.querySelector('form button')
+    btnSubmit : document.querySelector('form button'),
+    btnEditDone : document.querySelector('form .editBtn'),
+    btnEditCancel : document.querySelector('form .cancelBtn'),
+    formTitle : document.querySelector('form h3'),
+    form : document.querySelector('form')
 }
+
+
 
 const user = "guest";
 const password = "guest";
@@ -20,9 +28,24 @@ const headers = {
     'Content-type' : 'application/json'
 };
 
-//Load All Books
-elements.btnLoadBooks.addEventListener('click', loadBooks);
 
+elements.btnLoadBooks.addEventListener('click', loadBooks);
+elements.btnSubmit.addEventListener ('click', event => {
+    event.preventDefault();
+    createBook();
+});
+
+elements.btnEditDone.addEventListener('click' , event => {
+    event.preventDefault();
+    editDone();
+});
+
+elements.btnEditCancel.addEventListener('click', event => {
+    event.preventDefault();
+    editCancel();
+})
+
+//Load All Books
 function loadBooks(){
     fetch(urls.base, {
         method : 'GET',
@@ -39,22 +62,17 @@ function loadBooks(){
     .catch(error => {
         alert(error.message);
     });
+
+    clearInputFields();
 }
 
 //Create Book
-elements.btnSubmit.addEventListener ('click', event => {
-    event.preventDefault();
-    createBook();
-});
-
 function createBook(){
     const bookData = {
         title : elements.inputTitle.value,
         author : elements.inputAuthor.value,
         isbn : elements.inputIsbn.value
     }
-
-    clearInputFields();
 
     fetch(urls.base, {
         method : 'POST',
@@ -63,28 +81,26 @@ function createBook(){
     })
     .then(errorHandler)
     .then(dataErrorHandler)
-    .then(response => response.json())
-    .then((data) => {
-        loadBooks();
-    })
+    .then(loadBooks)
     .catch(error => {
         alert(error.message);
     });
 }
 
-
-
 //Edit Book
 function editBook(bookID){
-    const updateUrl = urls["update/delete"] + bookID;
+    formsSwitch(bookID);
+    elements.btnEditDone.value = bookID;    
+}
+
+function editDone(){
+    const updateUrl = urls["update/delete"] + elements.btnEditDone.value;
 
     const bookData = {
         title : elements.inputTitle.value,
         author : elements.inputAuthor.value,
         isbn : elements.inputIsbn.value
     }
-
-    clearInputFields();
 
     fetch(updateUrl, {
         method : 'PUT',
@@ -93,13 +109,16 @@ function editBook(bookID){
     })
     .then(errorHandler)
     .then(dataErrorHandler)
-    .then(response => response.json())
-    .then(data => {
-        loadBooks()
-    })
+    .then(loadBooks)
+    .then(formsSwitch)
     .catch(error => {
         alert(error);
     });
+}
+
+function editCancel(){
+    clearInputFields();
+    formsSwitch();
 }
 
 //Delete Book
@@ -111,10 +130,7 @@ function deleteBook(bookID){
         headers : headers
     })
     .then(errorHandler)
-    .then(response => response.json())
-    .then(data => {
-        loadBooks();
-    })
+    .then(loadBooks)
     .catch(error => {
         alert(error.message);
     });
@@ -150,8 +166,34 @@ function tableRowFormater(book){
     tr.appendChild(tdAuthor);
     tr.appendChild(tdIsbn);
     tr.appendChild(tdBtns);
+    tr.setAttribute('id', book._id);
 
     return tr;
+}
+
+
+
+function formsSwitch(bookID) {
+    if(elements.formTitle.textContent === 'FORM'){
+        elements.formTitle.textContent = 'EDIT';
+        elements.btnSubmit.style.display = 'none';
+        elements.btnEditDone.style.display = 'block';
+        elements.btnEditCancel.style.display = 'block';
+        loadEditData(bookID);
+    } else {
+        elements.formTitle.textContent = 'FORM';
+        elements.btnSubmit.style.display = 'block';
+        elements.btnEditDone.style.display = 'none';
+        elements.btnEditCancel.style.display = 'none';
+    }
+}
+
+function loadEditData(bookId){
+    const currentRow = document.getElementById(bookId);
+
+    elements.inputTitle.value = currentRow.children[0].textContent;
+    elements.inputAuthor.value = currentRow.children[1].textContent;
+    elements.inputIsbn.value = currentRow.children[2].textContent;
 }
 
 function errorHandler(response){
