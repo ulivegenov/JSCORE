@@ -82,27 +82,33 @@ function createStudent(){
         Grade : elements.inputGrade.value
     }
 
-    fetch (urls.base, {
-        method : 'POST',
-        headers : headers,
-        body : JSON.stringify(studentData)
-    })
-    .then(dataErrorHandler)
-    .then(idErrorHandler)
-    .then(facultyNumberErrorHandler)
-    .then(requestErrorHandler)
-    .then(loadStudents)
-    .catch(error => alert(error.message));
+    try {
+        dataErrorHandler();
+
+        fetch (urls.base, {
+            method : 'POST',
+            headers : headers,
+            body : JSON.stringify(studentData)
+        })
+        .then(requestErrorHandler)
+        .then(loadStudents)
+        .catch(error => alert(error.message));
+    } catch (error) {
+        alert(error.message);
+    }
+    
 }
 
 //Edit Student
-
+let currentValues = {};
 function editStudent(e){
     let currentRow = e.target.parentNode;
     formsSwitch();
     loadEditData(currentRow);
     elements.btnEditDone.value = currentRow.id;
     elements.btnDelete.value = currentRow.id;
+    currentValues.ID = currentRow.getAttribute('table-id');
+    currentValues.FacultyNumber = currentRow.getAttribute('f-number');
 }
 
 function editDone(){
@@ -116,18 +122,29 @@ function editDone(){
         Grade : elements.inputGrade.value
     }
 
-    fetch(updateUrl, {
-        method : 'PUT',
-        headers : headers,
-        body : JSON.stringify(studentData)
-    })
-    .then(dataErrorHandler)
-    .then(idErrorHandler)
-    .then(facultyNumberErrorHandler)
-    .then(requestErrorHandler)
-    .then(loadStudents)
-    .then(formsSwitch)
-    .catch(error => alert(error.message));
+    try {
+        dataErrorHandler();
+
+        if(currentValues.ID !== studentData.ID){
+            idErrorHandler()
+        }
+
+        if(currentValues.FacultyNumber !== studentData.FacultyNumber){
+            facultyNumberErrorHandler();
+        }
+
+        fetch(updateUrl, {
+            method : 'PUT',
+            headers : headers,
+            body : JSON.stringify(studentData)
+        })
+        .then(requestErrorHandler)
+        .then(loadStudents)
+        .then(formsSwitch)
+        .catch(error => alert(error.message));
+    } catch (error) {
+        alert(error.message);
+    }  
 }
 
 function editCancel(){
@@ -210,45 +227,36 @@ function clearInputFields(){
 
 function requestErrorHandler(response){
     if(response.status >= 400){
-        throw new Error (`Something went wrong! Response status: ${response.status}`);
+        throw new Error (`Something went wrong! Response status: ${response.statusText}`);
     }
 
     return response;
 }
 
-function dataErrorHandler(response){
+function dataErrorHandler(){
     for (const inputField of Array.from(elements.inputFields)) {
         if(!inputField.value){
-            throw new Error ('Input fields must not be empty');
-            response.status = 404;
+            throw new Error (`Input fields must not be empty`); 
         }
     }
-
-    return response;
 }
 
-function idErrorHandler(response){
+function idErrorHandler(){
     const trs = document.getElementsByTagName('tr');
 
     for (const tr of trs) {
         if(tr.getAttribute('table-id') == elements.InputId.value){
             throw new Error('This ID has already been taken!');
-            response.status = 409;
         }
     }
-
-    return response;
 }
 
-function facultyNumberErrorHandler(response){
+function facultyNumberErrorHandler(){
     const trs = document.getElementsByTagName('tr');
 
     for (const tr of trs) {
         if(tr.getAttribute('f-number') == elements.inputFacultyNumber.value){
             throw new Error('This Faculty Number has already been taken!');
-            response.status = 409;
         }
     }
-
-    return response;
 }

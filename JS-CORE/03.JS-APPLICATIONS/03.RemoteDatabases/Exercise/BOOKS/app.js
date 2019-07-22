@@ -12,8 +12,8 @@ const elements = {
     inputAuthor : document.getElementById('author'),
     inputIsbn : document.getElementById('isbn'),
     btnSubmit : document.querySelector('form button'),
-    btnEditDone : document.querySelector('form .editBtn'),
-    btnEditCancel : document.querySelector('form .cancelBtn'),
+    btnEditDone : document.querySelector('form div .editBtn'),
+    btnEditCancel : document.querySelector('form div .cancelBtn'),
     formTitle : document.querySelector('form h3'),
     form : document.querySelector('form')
 }
@@ -51,7 +51,7 @@ function loadBooks(){
         method : 'GET',
         headers : headers
     })
-    .then(errorHandler)
+    .then(requestErrorHandler)
     .then(response => response.json())
     .then((data) => {
         elements.tBody.innerHTML = '';
@@ -74,17 +74,23 @@ function createBook(){
         isbn : elements.inputIsbn.value
     }
 
-    fetch(urls.base, {
-        method : 'POST',
-        headers : headers,
-        body : JSON.stringify(bookData)
-    })
-    .then(errorHandler)
-    .then(dataErrorHandler)
-    .then(loadBooks)
-    .catch(error => {
+    try {
+        dataErrorHandler();
+
+        fetch(urls.base, {
+            method : 'POST',
+            headers : headers,
+            body : JSON.stringify(bookData)
+        })
+        .then(requestErrorHandler)
+        .then(loadBooks)
+        .catch(error => {
+            alert(error.message);
+        });
+    } catch (error) {
         alert(error.message);
-    });
+    }
+    
 }
 
 //Edit Book
@@ -102,18 +108,23 @@ function editDone(){
         isbn : elements.inputIsbn.value
     }
 
-    fetch(updateUrl, {
-        method : 'PUT',
-        headers : headers,
-        body : JSON.stringify(bookData)
-    })
-    .then(errorHandler)
-    .then(dataErrorHandler)
-    .then(loadBooks)
-    .then(formsSwitch)
-    .catch(error => {
-        alert(error);
-    });
+    try {
+        dataErrorHandler();
+        
+        fetch(updateUrl, {
+            method : 'PUT',
+            headers : headers,
+            body : JSON.stringify(bookData)
+        })
+        .then(requestErrorHandler)
+        .then(loadBooks)
+        .then(formsSwitch)
+        .catch(error => {
+            alert(error);
+        });
+    } catch (error) {
+        alert(error.message);
+    }
 }
 
 function editCancel(){
@@ -129,8 +140,13 @@ function deleteBook(bookID){
         method : 'DELETE',
         headers : headers
     })
-    .then(errorHandler)
-    .then(loadBooks)
+    .then(requestErrorHandler)
+    .then(response => {
+        loadBooks();
+        if(elements.formTitle.textContent === 'EDIT'){
+            formsSwitch();
+        }
+    })
     .catch(error => {
         alert(error.message);
     });
@@ -196,7 +212,7 @@ function loadEditData(bookId){
     elements.inputIsbn.value = currentRow.children[2].textContent;
 }
 
-function errorHandler(response){
+function requestErrorHandler(response){
     if(response.status >= 400){
         throw new Error (`Something went wrong! Response status: ${response.status}`);
     }
