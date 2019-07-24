@@ -91,7 +91,7 @@ function attachEvents() {
                            </div>`;
         const btnPlay = divElement.querySelector('.play-button');
         const deleteBtn = divElement.querySelector('.delete-button');
-        btnPlay.addEventListener('click', ()=> {
+        btnPlay.addEventListener('click', () => {
             play(currentPlayer)
         }); 
         deleteBtn.addEventListener("click", () => {
