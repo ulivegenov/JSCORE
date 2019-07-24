@@ -1,5 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\CountSameValuesInArray\bin\Debug\CountSameValuesInArray.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\CountSameValuesInArray\bin\Debug\CountSameValuesInArray.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\CountSameValuesInArray\bin\Debug\CountSameValuesInArray.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\CountSameValuesInArray\obj\Debug\CountSameValuesInArray.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\CountSameValuesInArray\obj\Debug\CountSameValuesInArray.pdb

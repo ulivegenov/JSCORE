@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\bin\Debug\SoftUniParty.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\bin\Debug\SoftUniParty.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\bin\Debug\SoftUniParty.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\obj\Debug\SoftUniParty.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\obj\Debug\SoftUniParty.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\SoftUniParty\obj\Debug\SoftUniParty.pdb

@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\bin\Debug\02.BasicStackOperations.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\02.BasicStackOperations\obj\Debug\02.BasicStackOperations.pdb

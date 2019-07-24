@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\bin\Debug\01.ReverseNumbers.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\01.ReverseNumbers\obj\Debug\01.ReverseNumbers.csprojResolveAssemblyReference.cache

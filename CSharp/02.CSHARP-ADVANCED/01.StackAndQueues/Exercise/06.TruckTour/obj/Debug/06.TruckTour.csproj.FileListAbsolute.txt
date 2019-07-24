@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\bin\Debug\06.TruckTour.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\bin\Debug\06.TruckTour.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\bin\Debug\06.TruckTour.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\obj\Debug\06.TruckTour.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\obj\Debug\06.TruckTour.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\06.TruckTour\obj\Debug\06.TruckTour.pdb

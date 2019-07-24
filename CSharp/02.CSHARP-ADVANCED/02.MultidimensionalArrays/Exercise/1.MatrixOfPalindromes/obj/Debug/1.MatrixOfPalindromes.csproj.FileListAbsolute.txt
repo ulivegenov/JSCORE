@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\bin\Debug\1.MatrixOfPalindromes.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\bin\Debug\1.MatrixOfPalindromes.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\bin\Debug\1.MatrixOfPalindromes.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\obj\Debug\1.MatrixOfPalindromes.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\obj\Debug\1.MatrixOfPalindromes.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\1.MatrixOfPalindromes\obj\Debug\1.MatrixOfPalindromes.pdb

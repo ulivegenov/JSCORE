@@ -1,5 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\2.DiagonalDifference\bin\Debug\2.DiagonalDifference.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\2.DiagonalDifference\bin\Debug\2.DiagonalDifference.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\2.DiagonalDifference\bin\Debug\2.DiagonalDifference.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\2.DiagonalDifference\obj\Debug\2.DiagonalDifference.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\2.DiagonalDifference\obj\Debug\2.DiagonalDifference.pdb

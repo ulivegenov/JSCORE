@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\bin\Debug\6.TargetPractice.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\bin\Debug\6.TargetPractice.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\bin\Debug\6.TargetPractice.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\obj\Debug\6.TargetPractice.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\obj\Debug\6.TargetPractice.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\6.TargetPractice\obj\Debug\6.TargetPractice.pdb

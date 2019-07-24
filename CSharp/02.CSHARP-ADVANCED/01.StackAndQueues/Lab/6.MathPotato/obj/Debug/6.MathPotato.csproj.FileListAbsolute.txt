@@ -1,6 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\bin\Debug\6.MathPotato.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\bin\Debug\6.MathPotato.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\bin\Debug\6.MathPotato.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\obj\Debug\6.MathPotato.csprojResolveAssemblyReference.cache
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\obj\Debug\6.MathPotato.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesLab\6.MathPotato\obj\Debug\6.MathPotato.pdb

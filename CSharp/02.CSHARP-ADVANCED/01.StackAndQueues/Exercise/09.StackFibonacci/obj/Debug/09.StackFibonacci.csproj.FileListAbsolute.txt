@@ -1,5 +1,0 @@
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe.config
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\09.StackFibonacci\bin\Debug\09.StackFibonacci.pdb
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\09.StackFibonacci\obj\Debug\09.StackFibonacci.exe
-E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\09.StackFibonacci\obj\Debug\09.StackFibonacci.pdb
