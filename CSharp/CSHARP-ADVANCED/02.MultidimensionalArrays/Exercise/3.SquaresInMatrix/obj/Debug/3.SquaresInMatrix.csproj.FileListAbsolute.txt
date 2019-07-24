@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\bin\Debug\3.SquaresInMatrix.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\bin\Debug\3.SquaresInMatrix.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\bin\Debug\3.SquaresInMatrix.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\obj\Debug\3.SquaresInMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\obj\Debug\3.SquaresInMatrix.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\3.SquaresInMatrix\obj\Debug\3.SquaresInMatrix.pdb

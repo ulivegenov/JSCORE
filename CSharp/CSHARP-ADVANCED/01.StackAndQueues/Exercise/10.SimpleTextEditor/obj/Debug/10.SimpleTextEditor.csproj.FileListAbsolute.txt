@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\bin\Debug\10.SimpleTextEditor.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\10.SimpleTextEditor\obj\Debug\10.SimpleTextEditor.pdb

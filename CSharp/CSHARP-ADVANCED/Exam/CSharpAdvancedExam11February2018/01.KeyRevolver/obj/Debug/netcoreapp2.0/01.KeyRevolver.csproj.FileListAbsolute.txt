@@ -1,0 +1,11 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.deps.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.runtimeconfig.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.runtimeconfig.dev.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\bin\Debug\netcoreapp2.0\01.KeyRevolver.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.csproj.CoreCompileInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.AssemblyInfoInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.AssemblyInfo.cs
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\01.KeyRevolver\obj\Debug\netcoreapp2.0\01.KeyRevolver.pdb

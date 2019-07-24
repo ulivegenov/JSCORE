@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\bin\Debug\03.MaximumElement.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\obj\Debug\03.MaximumElement.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\obj\Debug\03.MaximumElement.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\03.MaximumElement\obj\Debug\03.MaximumElement.pdb

@@ -1,0 +1,11 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.deps.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.runtimeconfig.dev.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\bin\Debug\netcoreapp2.0\04.HitList.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.csproj.CoreCompileInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfoInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.AssemblyInfo.cs
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\CSharpAdvancedExam11February2018\04.HitList\obj\Debug\netcoreapp2.0\04.HitList.pdb

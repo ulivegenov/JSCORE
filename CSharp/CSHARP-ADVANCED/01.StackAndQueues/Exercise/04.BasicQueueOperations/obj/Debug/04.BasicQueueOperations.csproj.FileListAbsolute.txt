@@ -1,0 +1,5 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\04.BasicQueueOperations\bin\Debug\04.BasicQueueOperations.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\04.BasicQueueOperations\obj\Debug\04.BasicQueueOperations.pdb

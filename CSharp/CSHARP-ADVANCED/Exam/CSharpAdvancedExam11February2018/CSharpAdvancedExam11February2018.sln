@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.KeyRevolver", "01.KeyRevolver\01.KeyRevolver.csproj", "{44DB5F97-DB69-4445-9ADB-D955FBB88153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Sneaking", "02.Sneaking\02.Sneaking.csproj", "{C0F930C2-E382-4A88-A50D-813508D8964C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.HitList", "04.HitList\04.HitList.csproj", "{CC186E56-2175-4713-A035-F018E86C6F1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.CryptoBlockchain", "03.CryptoBlockchain\03.CryptoBlockchain.csproj", "{2E6D4506-E079-4843-A733-3B06F588BC41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DB5F97-DB69-4445-9ADB-D955FBB88153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DB5F97-DB69-4445-9ADB-D955FBB88153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DB5F97-DB69-4445-9ADB-D955FBB88153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DB5F97-DB69-4445-9ADB-D955FBB88153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0F930C2-E382-4A88-A50D-813508D8964C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F930C2-E382-4A88-A50D-813508D8964C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F930C2-E382-4A88-A50D-813508D8964C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F930C2-E382-4A88-A50D-813508D8964C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC186E56-2175-4713-A035-F018E86C6F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC186E56-2175-4713-A035-F018E86C6F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC186E56-2175-4713-A035-F018E86C6F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC186E56-2175-4713-A035-F018E86C6F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6D4506-E079-4843-A733-3B06F588BC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6D4506-E079-4843-A733-3B06F588BC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6D4506-E079-4843-A733-3B06F588BC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6D4506-E079-4843-A733-3B06F588BC41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {89E2D8FA-2F4B-4D4D-9C8A-A4F116456208}
+	EndGlobalSection
+EndGlobal

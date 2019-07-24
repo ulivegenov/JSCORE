@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\bin\Debug\07.BalancedParenthesis.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\07.BalancedParenthesis\obj\Debug\07.BalancedParenthesis.pdb

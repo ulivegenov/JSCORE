@@ -1,0 +1,11 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.deps.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.runtimeconfig.dev.json
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\bin\Debug\netcoreapp2.0\02.KnightGame.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csproj.CoreCompileInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfoInputs.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.AssemblyInfo.cs
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.dll
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\C# Advanced Exam - 25 June 2017\CSharpAdvancedExam25June2017\02.KnightGame\obj\Debug\netcoreapp2.0\02.KnightGame.csprojResolveAssemblyReference.cache

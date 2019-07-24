@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\bin\Debug\4.MaximalSum.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\bin\Debug\4.MaximalSum.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\bin\Debug\4.MaximalSum.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\obj\Debug\4.MaximalSum.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\obj\Debug\4.MaximalSum.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\4.MaximalSum\obj\Debug\4.MaximalSum.pdb

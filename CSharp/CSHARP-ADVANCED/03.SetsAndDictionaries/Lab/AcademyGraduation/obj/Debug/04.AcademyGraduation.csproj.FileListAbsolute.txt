@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\bin\Debug\04.AcademyGraduation.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\04.AcademyGraduation\obj\Debug\04.AcademyGraduation.pdb

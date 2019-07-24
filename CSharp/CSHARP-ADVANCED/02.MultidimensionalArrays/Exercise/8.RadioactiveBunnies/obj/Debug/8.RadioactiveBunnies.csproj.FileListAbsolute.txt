@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\bin\Debug\8.RadioactiveBunnies.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\bin\Debug\8.RadioactiveBunnies.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\bin\Debug\8.RadioactiveBunnies.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\obj\Debug\8.RadioactiveBunnies.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\obj\Debug\8.RadioactiveBunnies.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\8.RadioactiveBunnies\obj\Debug\8.RadioactiveBunnies.pdb

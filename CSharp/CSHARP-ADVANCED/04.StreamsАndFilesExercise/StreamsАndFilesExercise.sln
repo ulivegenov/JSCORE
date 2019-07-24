@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.OddLines", "01.OddLines\01.OddLines.csproj", "{76C1FA51-3688-44A6-81FB-F9F4581B810C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.WordCount", "02.WordCount\03.WordCount.csproj", "{92F4BF79-25C3-483F-A9AA-34C67259F8D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.LineNumbers", "02.LineNumbers\02.LineNumbers.csproj", "{6FE9F04E-5B28-48B0-9870-61F5D182EFEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.CopyBinaryFile", "04.CopyBinaryFile\04.CopyBinaryFile.csproj", "{9570FD98-719A-4CC4-B660-F8F845D600C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.SlicingFile", "05.SlicingFile\05.SlicingFile.csproj", "{B9A8221F-A8E9-442C-AAD3-1A3679D4CBA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.ZippingSlicedFiles", "06.ZippingSlicedFiles\06.ZippingSlicedFiles.csproj", "{8EB48B42-2699-4846-940C-0A7E080F8686}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.DirectoryTraversal", "07.DirectoryTraversal\07.DirectoryTraversal.csproj", "{9456FC66-276C-4E9F-96D5-5EFA8C9195CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C1FA51-3688-44A6-81FB-F9F4581B810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C1FA51-3688-44A6-81FB-F9F4581B810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C1FA51-3688-44A6-81FB-F9F4581B810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C1FA51-3688-44A6-81FB-F9F4581B810C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92F4BF79-25C3-483F-A9AA-34C67259F8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F4BF79-25C3-483F-A9AA-34C67259F8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F4BF79-25C3-483F-A9AA-34C67259F8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F4BF79-25C3-483F-A9AA-34C67259F8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE9F04E-5B28-48B0-9870-61F5D182EFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FE9F04E-5B28-48B0-9870-61F5D182EFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FE9F04E-5B28-48B0-9870-61F5D182EFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FE9F04E-5B28-48B0-9870-61F5D182EFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9570FD98-719A-4CC4-B660-F8F845D600C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9570FD98-719A-4CC4-B660-F8F845D600C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9570FD98-719A-4CC4-B660-F8F845D600C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9570FD98-719A-4CC4-B660-F8F845D600C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A8221F-A8E9-442C-AAD3-1A3679D4CBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A8221F-A8E9-442C-AAD3-1A3679D4CBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A8221F-A8E9-442C-AAD3-1A3679D4CBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A8221F-A8E9-442C-AAD3-1A3679D4CBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EB48B42-2699-4846-940C-0A7E080F8686}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB48B42-2699-4846-940C-0A7E080F8686}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB48B42-2699-4846-940C-0A7E080F8686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB48B42-2699-4846-940C-0A7E080F8686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9456FC66-276C-4E9F-96D5-5EFA8C9195CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9456FC66-276C-4E9F-96D5-5EFA8C9195CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9456FC66-276C-4E9F-96D5-5EFA8C9195CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9456FC66-276C-4E9F-96D5-5EFA8C9195CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {179A1EC1-2279-4B9E-A162-C42E2EE83105}
+	EndGlobalSection
+EndGlobal

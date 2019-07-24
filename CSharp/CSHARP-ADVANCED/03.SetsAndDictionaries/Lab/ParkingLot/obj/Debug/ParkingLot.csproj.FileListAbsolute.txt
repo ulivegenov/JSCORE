@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\bin\Debug\ParkingLot.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\bin\Debug\ParkingLot.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\bin\Debug\ParkingLot.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\obj\Debug\ParkingLot.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\obj\Debug\ParkingLot.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\SetsAndDictionariesLab\ParkingLot\obj\Debug\ParkingLot.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\bin\Debug\5.RubiksMatrix.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\bin\Debug\5.RubiksMatrix.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\bin\Debug\5.RubiksMatrix.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\obj\Debug\5.RubiksMatrix.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\obj\Debug\5.RubiksMatrix.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\5.RubiksMatrix\obj\Debug\5.RubiksMatrix.pdb

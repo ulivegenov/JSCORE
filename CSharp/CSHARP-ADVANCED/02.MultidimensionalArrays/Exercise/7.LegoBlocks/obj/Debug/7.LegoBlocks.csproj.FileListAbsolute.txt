@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\bin\Debug\7.LegoBlocks.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\bin\Debug\7.LegoBlocks.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\bin\Debug\7.LegoBlocks.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\obj\Debug\7.LegoBlocks.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\obj\Debug\7.LegoBlocks.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\7.LegoBlocks\obj\Debug\7.LegoBlocks.pdb

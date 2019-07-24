@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\bin\Debug\11.PoisonousPlants.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\StacksAndQueuesExercise\11.PoisonousPlants\obj\Debug\11.PoisonousPlants.pdb

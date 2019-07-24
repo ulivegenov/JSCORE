@@ -1,0 +1,6 @@
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\bin\Debug\9.Crossfire.exe.config
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\bin\Debug\9.Crossfire.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\bin\Debug\9.Crossfire.pdb
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\obj\Debug\9.Crossfire.csprojResolveAssemblyReference.cache
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\obj\Debug\9.Crossfire.exe
+E:\SoftUni\Visual Studio 2017\CSharpAdvanced\Matrices - Exercise\9.Crossfire\obj\Debug\9.Crossfire.pdb
