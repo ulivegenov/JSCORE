@@ -75,9 +75,9 @@ function attachEvents() {
     }
 
     function appendPlayerToDom(currentPlayer){
-         const divElement = document.createElement("div");
-         divElement.classList.add("player");
-         divElement.setAttribute("id", currentPlayer._id);
+        const divElement = document.createElement("div");
+        divElement.classList.add("player");
+        divElement.setAttribute("id", currentPlayer._id);
         divElement.innerHTML = `<div class="name">Name: ${currentPlayer.name}</div>
                            <div class="money">Money: ${currentPlayer.money}</div>
                            <div class="bullets">Bullets: ${currentPlayer.bullets}</div>
