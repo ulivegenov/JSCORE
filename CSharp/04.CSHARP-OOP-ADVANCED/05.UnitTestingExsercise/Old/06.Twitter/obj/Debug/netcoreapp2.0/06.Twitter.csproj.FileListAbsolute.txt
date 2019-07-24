@@ -1,0 +1,11 @@
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.csprojResolveAssemblyReference.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.csproj.CoreCompileInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.AssemblyInfoInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.AssemblyInfo.cs
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.deps.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.runtimeconfig.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.runtimeconfig.dev.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\bin\Debug\netcoreapp2.0\06.Twitter.pdb
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\06.Twitter\obj\Debug\netcoreapp2.0\06.Twitter.pdb

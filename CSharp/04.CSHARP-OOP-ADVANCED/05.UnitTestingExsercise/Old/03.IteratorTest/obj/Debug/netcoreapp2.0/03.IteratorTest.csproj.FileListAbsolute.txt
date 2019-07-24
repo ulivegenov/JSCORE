@@ -1,0 +1,11 @@
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.deps.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.runtimeconfig.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.runtimeconfig.dev.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\bin\Debug\netcoreapp2.0\03.IteratorTest.pdb
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.csproj.CoreCompileInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.AssemblyInfoInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.AssemblyInfo.cs
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.pdb
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\03.IteratorTest\obj\Debug\netcoreapp2.0\03.IteratorTest.csprojResolveAssemblyReference.cache

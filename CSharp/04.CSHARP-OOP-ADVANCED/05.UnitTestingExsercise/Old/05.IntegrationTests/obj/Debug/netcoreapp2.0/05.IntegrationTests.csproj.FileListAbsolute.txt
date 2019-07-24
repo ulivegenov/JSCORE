@@ -1,0 +1,11 @@
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.deps.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.runtimeconfig.dev.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\bin\Debug\netcoreapp2.0\05.IntegrationTests.pdb
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csprojResolveAssemblyReference.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.csproj.CoreCompileInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfoInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.AssemblyInfo.cs
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\UnitTestingExsercise\05.IntegrationTests\obj\Debug\netcoreapp2.0\05.IntegrationTests.pdb

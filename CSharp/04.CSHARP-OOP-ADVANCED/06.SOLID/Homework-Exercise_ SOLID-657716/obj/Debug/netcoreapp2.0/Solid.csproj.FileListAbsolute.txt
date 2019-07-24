@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Solid\Solid\bin\Debug\netcoreapp2.0\Solid.deps.json
+C:\Users\Acer\source\repos\Solid\Solid\bin\Debug\netcoreapp2.0\Solid.runtimeconfig.json
+C:\Users\Acer\source\repos\Solid\Solid\bin\Debug\netcoreapp2.0\Solid.runtimeconfig.dev.json
+C:\Users\Acer\source\repos\Solid\Solid\bin\Debug\netcoreapp2.0\Solid.dll
+C:\Users\Acer\source\repos\Solid\Solid\bin\Debug\netcoreapp2.0\Solid.pdb
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.dll
+C:\Users\Acer\source\repos\Solid\Solid\obj\Debug\netcoreapp2.0\Solid.pdb

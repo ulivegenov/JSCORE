@@ -1,0 +1,11 @@
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.deps.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.runtimeconfig.dev.json
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\bin\Debug\netcoreapp2.0\LoggerApp.pdb
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.csprojResolveAssemblyReference.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.csproj.CoreCompileInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfoInputs.cache
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.AssemblyInfo.cs
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.dll
+F:\SoftUni\Visual Studio 2017\CSharpOOP-Advanced\SOLID\Logger\LoggerApp\obj\Debug\netcoreapp2.0\LoggerApp.pdb
