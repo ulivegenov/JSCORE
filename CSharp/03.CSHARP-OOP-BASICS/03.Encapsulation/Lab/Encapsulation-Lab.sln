@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Persons", "01.Persons\01.Persons.csproj", "{6A091A68-8B0B-4D4F-97EA-193D2904DFB1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.Salary", "02.Salary\02.Salary.csproj", "{30E48EEA-47DC-4FF1-9B77-7F5E4089317F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Team", "04.Team\04.Team.csproj", "{246A1A79-05DE-412B-9945-98350CC999CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A091A68-8B0B-4D4F-97EA-193D2904DFB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A091A68-8B0B-4D4F-97EA-193D2904DFB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A091A68-8B0B-4D4F-97EA-193D2904DFB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A091A68-8B0B-4D4F-97EA-193D2904DFB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E48EEA-47DC-4FF1-9B77-7F5E4089317F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E48EEA-47DC-4FF1-9B77-7F5E4089317F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E48EEA-47DC-4FF1-9B77-7F5E4089317F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E48EEA-47DC-4FF1-9B77-7F5E4089317F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{246A1A79-05DE-412B-9945-98350CC999CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{246A1A79-05DE-412B-9945-98350CC999CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{246A1A79-05DE-412B-9945-98350CC999CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{246A1A79-05DE-412B-9945-98350CC999CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3769FA0F-CA8C-4A57-BB10-544D09F29122}
+	EndGlobalSection
+EndGlobal
