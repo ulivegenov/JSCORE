@@ -190,18 +190,18 @@ function tableRowFormater(book){
 
 
 function formsSwitch(bookID) {
-    if(elements.formTitle.textContent === 'FORM'){
+    if(bookID){
         elements.formTitle.textContent = 'EDIT';
         elements.btnSubmit.style.display = 'none';
         elements.btnEditDone.style.display = 'block';
         elements.btnEditCancel.style.display = 'block';
         loadEditData(bookID);
-    } else {
+    } else{
         elements.formTitle.textContent = 'FORM';
         elements.btnSubmit.style.display = 'block';
         elements.btnEditDone.style.display = 'none';
         elements.btnEditCancel.style.display = 'none';
-    }
+    }   
 }
 
 function loadEditData(bookId){

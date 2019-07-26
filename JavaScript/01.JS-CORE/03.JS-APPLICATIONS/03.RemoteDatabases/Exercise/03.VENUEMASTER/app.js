@@ -39,6 +39,7 @@ function listVenues(){
     .then(requestErrorHandler)
     .then(response => response.json())
     .then(data => {
+        elements.venueInfo.innerHTML = '';
         for (const id of data) {
             getVenue(id);
         }
