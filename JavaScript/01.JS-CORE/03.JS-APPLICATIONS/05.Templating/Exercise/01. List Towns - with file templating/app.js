@@ -13,7 +13,10 @@ function attachEvents(){
     }
     
     let loadBtn = document.getElementById('btnLoadTowns');
-    loadBtn.addEventListener('click', getTowns);
+    loadBtn.addEventListener('click', ev => {
+        ev.preventDefault();
+        getTowns();
+    });
 }
 
 attachEvents();
