@@ -1,0 +1,9 @@
+<div id="eventsHolder">
+    {{#if loggedIn}}
+        {{#each events}}
+            {{>event}}
+        {{/each}}
+    {{else}}
+        {{>noEvents}}
+    {{/if}}
+</div>

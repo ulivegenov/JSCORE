@@ -1,0 +1,26 @@
+<nav>
+    <ul>
+        <li><a href="#/home">Home</a></li>
+        {{#if loggedIn}}
+            <li><a href="#/allMovies">Cinema</a></li>
+            <li><a href="#/addMovie">Add Movie</a></li>
+            <li><a href="#/myMovies">My Movies</a></li>
+            <li class="right"><a href="#/logout">Logout</a></li>
+            <li class="right">Welcome, {{username}}!</li>
+        {{else}}
+            <li class="right"><a href="#/register">Register</a></li>
+            <li class="right"><a href="#/login">Login</a></li>
+        {{/if}}
+    </ul>
+</nav>
+<div id="notifications">
+    <div id="loadingBox" class="notification">
+        <span>Loading …</span>
+    </div>
+    <div id="infoBox" class="notification">
+        <span>Info</span>
+    </div>
+    <div id="errorBox" class="notification">
+        <span>Error</span>
+    </div>
+</div>
