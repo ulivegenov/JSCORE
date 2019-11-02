@@ -1,0 +1,10 @@
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\bin\Debug\netcoreapp2.1\03.SalesDatabase.deps.json
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\bin\Debug\netcoreapp2.1\03.SalesDatabase.runtimeconfig.json
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\bin\Debug\netcoreapp2.1\03.SalesDatabase.runtimeconfig.dev.json
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\bin\Debug\netcoreapp2.1\03.SalesDatabase.dll
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\bin\Debug\netcoreapp2.1\03.SalesDatabase.pdb
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\obj\Debug\netcoreapp2.1\03.SalesDatabase.csprojAssemblyReference.cache
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\obj\Debug\netcoreapp2.1\03.SalesDatabase.AssemblyInfoInputs.cache
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\obj\Debug\netcoreapp2.1\03.SalesDatabase.AssemblyInfo.cs
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\obj\Debug\netcoreapp2.1\03.SalesDatabase.dll
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\03.SalesDatabase\obj\Debug\netcoreapp2.1\03.SalesDatabase.pdb
