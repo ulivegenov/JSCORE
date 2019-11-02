@@ -5,3 +5,6 @@ E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First
 E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\obj\Debug\netcoreapp2.1\01.Hospital Database.csprojAssemblyReference.cache
 E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\obj\Debug\netcoreapp2.1\01.Hospital Database.AssemblyInfoInputs.cache
 E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\obj\Debug\netcoreapp2.1\01.Hospital Database.AssemblyInfo.cs
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\bin\Debug\netcoreapp2.1\01.Hospital Database.pdb
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\obj\Debug\netcoreapp2.1\01.Hospital Database.dll
+E:\SoftUni\C#-DB\Entity-Framework\04.Code-First\Exercise\New-Instance\Code-First\01.Hospital Database\obj\Debug\netcoreapp2.1\01.Hospital Database.pdb
