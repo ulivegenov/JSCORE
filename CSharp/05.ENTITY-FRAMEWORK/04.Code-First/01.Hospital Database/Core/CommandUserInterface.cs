@@ -45,7 +45,7 @@
                     {
                         this.CreatePatient(context);
                     }
-                    else if (true)
+                    else if (answer.ToUpper() == "S")
                     {
                         this.SelectPatient(context);
                     }
