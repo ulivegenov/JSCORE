@@ -24,10 +24,10 @@
 
         public bool HasInsurance { get; set; }
 
-        public ICollection<Visitation> Visitations { get; set; } = new HashSet<Visitation>();
+        public ICollection<Visitation> Visitations { get; set; } = new List<Visitation>();
 
-        public ICollection<Diagnose> Diagnoses { get; set; } = new HashSet<Diagnose>();
+        public ICollection<Diagnose> Diagnoses { get; set; } = new List<Diagnose>();
 
-        public ICollection<PatientMedicament> Prescriptions { get; set; } = new HashSet<PatientMedicament>();
+        public ICollection<PatientMedicament> Prescriptions { get; set; } = new List<PatientMedicament>();
     }
 }

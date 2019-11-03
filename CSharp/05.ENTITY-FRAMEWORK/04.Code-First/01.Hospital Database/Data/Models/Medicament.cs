@@ -12,6 +12,6 @@
         //[MaxLength(50)] --> if you don't want to use Fluent API
         public string Name { get; set; }
 
-        public ICollection<PatientMedicament> Prescriptions { get; set; } = new HashSet<PatientMedicament>();
+        public ICollection<PatientMedicament> Prescriptions { get; set; } = new List<PatientMedicament>();
     }
 }
