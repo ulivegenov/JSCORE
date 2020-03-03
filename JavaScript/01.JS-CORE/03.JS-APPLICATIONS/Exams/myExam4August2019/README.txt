@@ -1,1 +1,0 @@
-DONT FORGET TO HIT "npm install" in the terminal before continue!
